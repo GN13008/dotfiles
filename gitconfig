@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = negro.guillaume@gmail.com
+	name = Guillaume NEGRO
